@@ -295,7 +295,7 @@ def main():
         print(df.iloc[index * nrows:(index+1) * nrows])
         index += 1
         while True:
-            more_data = input("\nWould you like to view 5 more lines of rider data? Enter yes or no.? ")
+            more_data = input("\nWould you like to view 5 additional lines of rider data? Enter yes or no.? ")
             print("\n")
             if more_data.lower() != 'yes':
                 break
