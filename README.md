@@ -18,3 +18,6 @@ washington.csv
 ### Credits
 Udacity
 Ramya P
+
+###Resources
+https://docs.python.org/3/index.html
